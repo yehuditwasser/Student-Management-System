@@ -1,0 +1,19 @@
+.button-style {
+    font-family: Rubik;
+    font-size: 20px;
+    font-weight: 400;
+    border-radius: 30px;
+    border: 1px solid #103B8D;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.blue {
+    background-color: #103B8D;
+    color: #FFFFFF;
+}
+
+.white {
+    background-color: #FFFFFF;
+    color: #103B8D;
+}
